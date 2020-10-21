@@ -20,24 +20,26 @@ body
  }
 
 
-#p {
+.p {
   /* basic font setting */
   font: roboto;
   text-align: right;
   letter-spacing: 2px;
   color: blue;
 }
-#p1 {
+
+.p1 {
   text-align: right;
   color: blue;
   background-color: seashell;
   
 }
-#p2 {
+
+.p2 {
   text-align: right;
 }
 
-#p3{
+.p3{
   text-align: right;
 }
 span.gras {
