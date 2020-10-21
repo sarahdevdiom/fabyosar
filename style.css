@@ -28,8 +28,19 @@ p {
   color: blue;
 }
 .p1 {
+  text-align : center;
   color: blue;
   background-color: seashell;
+  
+}
+.p2 {
+
+  text-align:center;
+}
+
+.p3{
+
+  text-align: center;
 }
 span.gras {
   font-weight: bold;
