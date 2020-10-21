@@ -27,7 +27,7 @@ p {
   letter-spacing: 2px;
   color: blue;
 }
-.p1 {
+.p1 { text-align: center;
   color: blue;
   background-color: seashell;
 }
