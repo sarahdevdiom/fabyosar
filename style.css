@@ -42,3 +42,15 @@ span.grasBG {
 }
 
 
+
+
+#imagesMini{
+    overflow:hidden;
+    width:auto;
+    display:inline;
+}
+.mini{
+    float:right;
+    margin-left:20px;
+}
+
