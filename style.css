@@ -20,25 +20,25 @@ body
  }
 
 
-p {
+#p {
   /* basic font setting */
   font: roboto;
   text-align: center;
   letter-spacing: 2px;
   color: blue;
 }
-.p1 {
+#p1 {
   text-align: center;
   color: blue;
   background-color: seashell;
   
 }
-.p2 {
+#p2 {
 
   text-align: center;
 }
 
-.p3{
+#p3{
 
   text-align: center;
 }
