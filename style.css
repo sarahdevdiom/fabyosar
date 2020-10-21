@@ -23,29 +23,22 @@ body
 p {
   /* basic font setting */
   font: roboto;
-  font-weight: bold;
   text-align: left;
-  letter-spacing: 2px
+  letter-spacing: 2px;
+  color: blue;
 }
-
 .p1 {
   color: blue;
+  background-color: seashell;
 }
-.p2 {
-  color: red;
+span.gras {
+  font-weight: bold;
+  background-color: seashell;
 }
-.p3 {
-  color: yellow;
+span.grasBG {
+  font-weight: bold;
+  color: white;
+  background-color: blue;
 }
-.p4 {
-  color: blue;
-}
-.p5 {
-  color: red;
-}
-.p6 {
-  color: yellow;
-}
-.p7 {
-  color: pink;
-}
+
+
