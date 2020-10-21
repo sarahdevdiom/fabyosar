@@ -23,7 +23,7 @@ body
 p {
   /* basic font setting */
   font: roboto;
-  text-align: center;
+  text-align: left;
   letter-spacing: 2px;
   color: blue;
 }
