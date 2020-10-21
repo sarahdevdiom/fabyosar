@@ -29,8 +29,7 @@ body
 }
 
 .p1 { 
-  display: table-cell; /* comportement visuel de cellule */
-  vertical-align: middle ;position: relative;
+  position: relative;
   left: 360px;
   text-align: right;
   color: blue;
