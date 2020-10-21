@@ -15,7 +15,7 @@ body
   width: 800px; 
  margin:0 auto; 
  background-color: white; 
- text-align: center; 
+ align: center; 
  align-content: center; 
  }
 
@@ -23,22 +23,22 @@ body
 #p {
   /* basic font setting */
   font: roboto;
-  text-align: center;
+  text-align: right;
   letter-spacing: 2px;
   color: blue;
 }
 #p1 {
-  text-align: center;
+  text-align: right;
   color: blue;
   background-color: seashell;
   
 }
 #p2 {
-  text-align: center;
+  text-align: right;
 }
 
 #p3{
-  text-align: center;
+  text-align: right;
 }
 span.gras {
   font-weight: bold;
