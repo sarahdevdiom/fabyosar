@@ -20,7 +20,7 @@ body
  }
 
 
-.p {
+.p { position: absolute;
   /* basic font setting */
   font: roboto;
   text-align: right;
