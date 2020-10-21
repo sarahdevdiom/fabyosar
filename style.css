@@ -15,15 +15,15 @@ body
   width: 800px; 
  margin:0 auto; 
  background-color: white; 
- text-align: center; 
- align-content: center; 
+ text-align: left; 
+ align-content: left; 
  }
 
 
 p {
   /* basic font setting */
   font: roboto;
-  text-align: left;
+  text-align: center;
   letter-spacing: 2px;
   color: blue;
 }
