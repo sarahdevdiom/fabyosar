@@ -28,7 +28,7 @@ body
   color: blue;
 }
 
-p1 { position: relative;
+.p1 { position: relative;
   left: 360px;
   text-align: right;
   color: blue;
