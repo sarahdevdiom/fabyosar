@@ -20,7 +20,7 @@ body
  }
 
 
-.p { position: absolute;
+.p { 
   /* basic font setting */
   font: roboto;
   text-align: right;
@@ -28,18 +28,18 @@ body
   color: blue;
 }
 
-.p1 {
+.p1 { position: absolute;
   text-align: right;
   color: blue;
   background-color: seashell;
   
 }
 
-.p2 {
+.p2 { position: absolute;
   text-align: right;
 }
 
-.p3{
+.p3{ position: absolute;
   text-align: right;
 }
 span.gras {
