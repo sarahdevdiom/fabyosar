@@ -35,10 +35,12 @@ body
   
 }
 
-.p2 { position: absolute;
-  text-align: right;
+.p2 {
+  text-align: left;
+  border: solid;
 }
 
+}
 .p3{ position: absolute;
   text-align: right;
 }
