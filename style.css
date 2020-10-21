@@ -19,7 +19,7 @@ body
  align-content: center; 
  }
 
-
+.center
 #p {
   /* basic font setting */
   font: roboto;
